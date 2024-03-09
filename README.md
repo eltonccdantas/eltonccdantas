@@ -5,7 +5,8 @@ I am Elton Dantas,  I am an agile testing graduate, shift left mindset QA engine
 
 🌱 I keep on studying to  deliver high quality software solutions with confidence.
 
-[![Linkedin: elton](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonccdantas/)](https://www.linkedin.com/in/eltonccdantas/)
+[![Linkedin: elton](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonccdantas/)](https://www.linkedin.com/in/eltonccdantas/) [![Download.cv Badge](https://img.shields.io/badge/Download.CV-111?logo=readdotcv&logoColor=fff&style=for-the-badge)](https://drive.google.com/file/d/1WuWGDkoapPAkipo2FC_SZuC3x8drWTwd/view?usp=sharing)
+
 
 
 ____
