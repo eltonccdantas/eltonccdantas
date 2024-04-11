@@ -10,7 +10,7 @@ I am Elton Dantas,  I am an agile testing graduate, shift left mindset QA engine
 
 [![Download.cv Badge](https://img.shields.io/badge/Download%20My%20CV-000000)](https://drive.google.com/file/d/1ou2UhvhQANzpuu4ggEmfAUUxm59YbTbj/view?usp=sharing)
 
-[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-8A2BE2)](https://eltondantas.com/)
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-FF5733)](https://eltondantas.com/)
 
 
 
