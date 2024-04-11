@@ -5,7 +5,14 @@ I am Elton Dantas,  I am an agile testing graduate, shift left mindset QA engine
 
 🌱 I keep on studying to  deliver high quality software solutions with confidence.
 
-[![Linkedin: elton](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonccdantas/)](https://www.linkedin.com/in/eltonccdantas/) [![Download.cv Badge](https://img.shields.io/badge/Download.CV-111?logo=readdotcv&logoColor=fff&style=for-the-badge)](https://drive.google.com/file/d/1WuWGDkoapPAkipo2FC_SZuC3x8drWTwd/view?usp=sharing)
+<a href="https://www.linkedin.com/in/eltonccdantas/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
+
+
+[![Download.cv Badge](https://img.shields.io/badge/Download%20My%20CV-000000)](https://drive.google.com/file/d/1ou2UhvhQANzpuu4ggEmfAUUxm59YbTbj/view?usp=sharing)
+
+[![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-8A2BE2)](https://eltondantas.com/)
+
+
 
 
 
@@ -17,47 +24,49 @@ ____
 These are some of the technologies and tools that I have experience with:
 
 Backend: 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 
 <!--loading...-->
 <!--![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)-->
 
 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+
 
 <!--loading-->
 <!--![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
 
 Database:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354200/postgresql.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
 OSs:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354069/microsoft-windows.svg" width="36" height="36" alt="Windows" /></a>
+<a href="https://www.redhat.com/en/topics/linux/what-is-linux" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354004/linux-tux.svg" width="36" height="36" alt="Linux" /></a>
 
 
 Tools:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-FF8A39?style=for-the-badge&logo=logoColor=white)
-![JAWS](https://img.shields.io/badge/-jaws-2553A9?style=for-the-badge&logo=jaws&logoColor=white)
-![Appium Badge](https://img.shields.io/badge/Appium-EE376D?logo=appium&logoColor=fff&style=for-the-badge)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452210/git.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/473620/github.svg" width="36" height="36" alt="GitHub" /></a>
+<a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/366577/application-x-shellscript.svg" width="36" height="36" alt="Shell Script" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448221/docker.svg" width="36" height="36" alt="" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452241/jira.svg" width="36" height="36" alt="Jira" /></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353929/jenkins.svg" width="36" height="36" alt="Jenkins" /></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" /></a>
+<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/377856/virtualbox.svg" width="36" height="36" alt="VirtualBox" /></a>
+<a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353515/browserstack.svg" width="36" height="36" alt="BrowserStack" /></a>
+<a href="https://www.freedomscientific.com/products/software/jaws/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/145783/shark.svg" width="36" height="36" alt="JAWS" /></a>
+<a href="https://appium.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353413/appium.svg" width="36" height="36" alt="Appium" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354321/selenium.svg" width="36" height="36" alt="Selenium" /></a>
+
 
 Editors and IDEs:
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3D?style=for-the-badge&logo=android-studio&logoColor=white)
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374171/vscode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.jetbrains.com/idea/?var=1" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" width="36" height="36" alt="IntelliJ" /></a>
+<a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5gFvgwFg5lP_jH4Sud233trl7aDbYS_uLI_NxYSfTxyGkw-4pSarFwaAuo3EALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/305701/androidstudio.svg" width="36" height="36" alt="Android Studio" /></a>
 
 <!--
 **eltonccdantas/eltonccdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
