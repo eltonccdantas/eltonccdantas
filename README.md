@@ -23,21 +23,7 @@ ____
 
 These are some of the technologies and tools that I have experience with:
 
-Backend: 
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 
-<!--loading...-->
-<!--![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)-->
-
-Frontend
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-
-
-<!--loading-->
-<!--![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
 
 Database:
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -46,6 +32,9 @@ Database:
 OSs:
 <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354069/microsoft-windows.svg" width="36" height="36" alt="Windows" /></a>
 <a href="https://www.redhat.com/en/topics/linux/what-is-linux" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354004/linux-tux.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://www.apple.com/os/macos/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349361/finder.svg" width="36" height="36" alt="macOS" /></a>
+<a href="https://www.apple.com/os/ios/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/508867/os-ios.svg" width="36" height="36" alt="iOS" /></a>
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/475631/android-color.svg" width="36" height="36" alt="Android" /></a>
 
 
 Tools:
@@ -54,6 +43,7 @@ Tools:
 <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/366577/application-x-shellscript.svg" width="36" height="36" alt="Shell Script" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448221/docker.svg" width="36" height="36" alt="" /></a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452241/jira.svg" width="36" height="36" alt="Jira" /></a>
+<a href="https://www.atlassian.com/software/bitbucket" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452166/bitbucket.svg" width="36" height="36" alt="Bitbucket" /></a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353929/jenkins.svg" width="36" height="36" alt="Jenkins" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="36" height="36" alt="Postman" /></a>
 <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/377856/virtualbox.svg" width="36" height="36" alt="VirtualBox" /></a>
@@ -61,12 +51,20 @@ Tools:
 <a href="https://www.freedomscientific.com/products/software/jaws/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/145783/shark.svg" width="36" height="36" alt="JAWS" /></a>
 <a href="https://appium.io/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353413/appium.svg" width="36" height="36" alt="Appium" /></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354321/selenium.svg" width="36" height="36" alt="Selenium" /></a>
+<a href="https://robotframework.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374049/robotframework.svg" width="36" height="36" alt="Robotframework" /></a>
+<a href="https://www.soapui.org/" target="_blank" rel="noreferrer"><img src="https://images.g2crowd.com/uploads/product/hd_favicon/1556048989/soapui.svg" width="36" height="36" alt="SoapUI" /></a>
+<a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="36" height="36" alt="DBEaver" /></a>
+
+
+
 
 
 Editors and IDEs:
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374171/vscode.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://www.jetbrains.com/idea/?var=1" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" width="36" height="36" alt="IntelliJ" /></a>
-<a href="https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5gFvgwFg5lP_jH4Sud233trl7aDbYS_uLI_NxYSfTxyGkw-4pSarFwaAuo3EALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/305701/androidstudio.svg" width="36" height="36" alt="Android Studio" /></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/305701/androidstudio.svg" width="36" height="36" alt="Android Studio" /></a>
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/374194/xcode.svg" width="36" height="36" alt="XCode" /></a>
+
 
 <!--
 **eltonccdantas/eltonccdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
