@@ -8,7 +8,7 @@ I am Elton Dantas,  I am an agile testing graduate, shift left mindset QA engine
 <a href="https://www.linkedin.com/in/eltonccdantas/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
 
 
-[![Download.cv Badge](https://img.shields.io/badge/Download%20My%20CV-000000)](https://drive.google.com/file/d/1ou2UhvhQANzpuu4ggEmfAUUxm59YbTbj/view?usp=sharing)
+[![Download.cv Badge](https://img.shields.io/badge/Download%20My%20CV-000000)](https://drive.google.com/file/d/1BrMOsrA4T8lRVU2Isesd3utXXpHpUsRR/view?usp=sharing)
 
 [![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-FF5733)](https://eltondantas.com/)
 
